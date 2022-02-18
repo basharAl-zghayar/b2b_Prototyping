@@ -485,6 +485,7 @@ footer ul li {
     display: flex;
   }
 }
+
 @media (max-width: 576px) {
   .tree_route_name {
     display: none;
